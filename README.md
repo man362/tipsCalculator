@@ -11,14 +11,14 @@ Time spent: 2 hours spent in total
 The following **required** functionality is complete:
 * [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
+
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/21WrZIo.gif'  title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/fEBviUP.gif'  title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
 No challenges encountered while building the app.
